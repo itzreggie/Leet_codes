@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/itzreggie/Leet_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/itzreggie/Leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/itzreggie/Leet_codes/tree/master/2249-count-the-hidden-sequences) |
@@ -242,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/itzreggie/Leet_codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/itzreggie/Leet_codes/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
