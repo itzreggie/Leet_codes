@@ -1,4 +1,5 @@
-public int[][] GenerateMatrix(int n)
+public class Solution {
+    public int[][] GenerateMatrix(int n)
 {
     int[][] matrix = new int[n][];
     for (int i = 0; i < n; i++)
@@ -38,4 +39,6 @@ public int[][] GenerateMatrix(int n)
     }
 
     return matrix;
+}
+
 }
