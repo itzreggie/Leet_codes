@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/itzreggie/Leet_codes/tree/master/0038-count-and-say) |
+| [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/itzreggie/Leet_codes/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/itzreggie/Leet_codes/tree/master/0806-domino-and-tromino-tiling) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 | Problem Name | Difficulty |
