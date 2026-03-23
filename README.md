@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/itzreggie/Leet_codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/itzreggie/Leet_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/itzreggie/Leet_codes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/itzreggie/Leet_codes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/itzreggie/Leet_codes/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-flip-square-submatrix-vertically](https://github.com/itzreggie/Leet_codes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/itzreggie/Leet_codes/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/itzreggie/Leet_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/itzreggie/Leet_codes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
