@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/itzreggie/Leet_codes/tree/main/0260-single-number-iii/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/itzreggie/Leet_codes/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/itzreggie/Leet_codes/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/itzreggie/Leet_codes/tree/master/2478-longest-nice-subarray) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/itzreggie/Leet_codes/tree/master/2048-build-array-from-permutation) |
 ## Trie
 | Problem Name | Difficulty |
