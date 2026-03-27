@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/itzreggie/Leet_codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/itzreggie/Leet_codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/itzreggie/Leet_codes/tree/master/2915-count-of-interesting-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/itzreggie/Leet_codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/itzreggie/Leet_codes/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itzreggie/Leet_codes/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2998-count-symmetric-integers](https://github.com/itzreggie/Leet_codes/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/itzreggie/Leet_codes/tree/master/2048-build-array-from-permutation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
