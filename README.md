@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3637-count-number-of-balanced-permutations](https://github.com/itzreggie/Leet_codes/tree/master/3637-count-number-of-balanced-permutations) |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/itzreggie/Leet_codes/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,4 +363,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
