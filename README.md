@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2793-count-the-number-of-complete-components](https://github.com/itzreggie/Leet_codes/tree/master/2793-count-the-number-of-complete-components) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/itzreggie/Leet_codes/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itzreggie/Leet_codes/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/itzreggie/Leet_codes/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itzreggie/Leet_codes/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 | Problem Name | Difficulty |
