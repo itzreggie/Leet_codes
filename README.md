@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/itzreggie/Leet_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/itzreggie/Leet_codes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/itzreggie/Leet_codes/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/itzreggie/Leet_codes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/itzreggie/Leet_codes/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/itzreggie/Leet_codes/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0761-special-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/0761-special-binary-string/) | Hard |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/itzreggie/Leet_codes/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
