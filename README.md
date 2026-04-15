@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/itzreggie/Leet_codes/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/itzreggie/Leet_codes/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itzreggie/Leet_codes/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/itzreggie/Leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/itzreggie/Leet_codes/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/itzreggie/Leet_codes/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
