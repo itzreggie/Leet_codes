@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0761-special-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/0761-special-binary-string/) | Hard |
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/itzreggie/Leet_codes/tree/main/0796-rotate-string/) | Easy |
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itzreggie/Leet_codes/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/itzreggie/Leet_codes/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Design
 | Problem Name | Difficulty |
