@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/itzreggie/Leet_codes/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/itzreggie/Leet_codes/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/itzreggie/Leet_codes/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
@@ -411,4 +412,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/itzreggie/Leet_codes/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/itzreggie/Leet_codes/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
