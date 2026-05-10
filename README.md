@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/itzreggie/Leet_codes/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/itzreggie/Leet_codes/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itzreggie/Leet_codes/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/itzreggie/Leet_codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/itzreggie/Leet_codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/itzreggie/Leet_codes/tree/master/2915-count-of-interesting-subarrays) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/itzreggie/Leet_codes/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itzreggie/Leet_codes/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/itzreggie/Leet_codes/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
