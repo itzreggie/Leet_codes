@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/itzreggie/Leet_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/itzreggie/Leet_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/itzreggie/Leet_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itzreggie/Leet_codes/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/itzreggie/Leet_codes/tree/master/2793-count-the-number-of-complete-components) |
