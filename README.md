@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/itzreggie/Leet_codes/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2478-longest-nice-subarray](https://github.com/itzreggie/Leet_codes/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/itzreggie/Leet_codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2540-minimum-common-value](https://github.com/itzreggie/Leet_codes/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itzreggie/Leet_codes/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/itzreggie/Leet_codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2540-minimum-common-value](https://github.com/itzreggie/Leet_codes/tree/main/2540-minimum-common-value/) | Easy |
 | [2665-minimum-time-to-repair-cars](https://github.com/itzreggie/Leet_codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/itzreggie/Leet_codes/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
+| [2540-minimum-common-value](https://github.com/itzreggie/Leet_codes/tree/main/2540-minimum-common-value/) | Easy |
 | [2626-count-the-number-of-good-subarrays](https://github.com/itzreggie/Leet_codes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/itzreggie/Leet_codes/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itzreggie/Leet_codes/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itzreggie/Leet_codes/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/itzreggie/Leet_codes/tree/main/2540-minimum-common-value/) | Easy |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-flip-square-submatrix-vertically](https://github.com/itzreggie/Leet_codes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
