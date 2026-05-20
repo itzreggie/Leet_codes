@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/itzreggie/Leet_codes/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itzreggie/Leet_codes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2665-minimum-time-to-repair-cars](https://github.com/itzreggie/Leet_codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/itzreggie/Leet_codes/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/itzreggie/Leet_codes/tree/master/2690-house-robber-iv) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/itzreggie/Leet_codes/tree/main/2540-minimum-common-value/) | Easy |
 | [2626-count-the-number-of-good-subarrays](https://github.com/itzreggie/Leet_codes/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itzreggie/Leet_codes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/itzreggie/Leet_codes/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itzreggie/Leet_codes/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/itzreggie/Leet_codes/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/itzreggie/Leet_codes/tree/master/2478-longest-nice-subarray) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itzreggie/Leet_codes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/itzreggie/Leet_codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/itzreggie/Leet_codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
