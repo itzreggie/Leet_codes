@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/itzreggie/Leet_codes/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itzreggie/Leet_codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itzreggie/Leet_codes/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/itzreggie/Leet_codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itzreggie/Leet_codes/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/itzreggie/Leet_codes/tree/master/3430-count-days-without-meetings) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itzreggie/Leet_codes/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itzreggie/Leet_codes/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3637-count-number-of-balanced-permutations](https://github.com/itzreggie/Leet_codes/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
