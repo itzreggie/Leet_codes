@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/itzreggie/Leet_codes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/itzreggie/Leet_codes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/itzreggie/Leet_codes/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itzreggie/Leet_codes/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/itzreggie/Leet_codes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/itzreggie/Leet_codes/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itzreggie/Leet_codes/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/itzreggie/Leet_codes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/itzreggie/Leet_codes/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
