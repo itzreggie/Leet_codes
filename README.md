@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/itzreggie/Leet_codes/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/itzreggie/Leet_codes/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/itzreggie/Leet_codes/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/itzreggie/Leet_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itzreggie/Leet_codes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itzreggie/Leet_codes/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/itzreggie/Leet_codes/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,4 +504,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itzreggie/Leet_codes/tree/main/0292-nim-game/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
