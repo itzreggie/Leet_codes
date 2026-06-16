@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/itzreggie/Leet_codes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3637-count-number-of-balanced-permutations](https://github.com/itzreggie/Leet_codes/tree/master/3637-count-number-of-balanced-permutations) |
 | [3838-weighted-word-mapping](https://github.com/itzreggie/Leet_codes/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Topological Sort
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2075-decode-the-slanted-ciphertext](https://github.com/itzreggie/Leet_codes/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/itzreggie/Leet_codes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/itzreggie/Leet_codes/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
