@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/itzreggie/Leet_codes/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/itzreggie/Leet_codes/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/itzreggie/Leet_codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/itzreggie/Leet_codes/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itzreggie/Leet_codes/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itzreggie/Leet_codes/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/itzreggie/Leet_codes/tree/main/0078-subsets/) | Medium |
 | [0260-single-number-iii](https://github.com/itzreggie/Leet_codes/tree/main/0260-single-number-iii/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/itzreggie/Leet_codes/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/itzreggie/Leet_codes/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/itzreggie/Leet_codes/tree/main/0078-subsets/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/itzreggie/Leet_codes/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
