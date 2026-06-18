@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/itzreggie/Leet_codes/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/itzreggie/Leet_codes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
