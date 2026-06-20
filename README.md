@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itzreggie/Leet_codes/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itzreggie/Leet_codes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/itzreggie/Leet_codes/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itzreggie/Leet_codes/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/0761-special-binary-string/) | Hard |
 | [1340-jump-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/itzreggie/Leet_codes/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itzreggie/Leet_codes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/itzreggie/Leet_codes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
