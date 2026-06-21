@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itzreggie/Leet_codes/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itzreggie/Leet_codes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/itzreggie/Leet_codes/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itzreggie/Leet_codes/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/0761-special-binary-string/) | Hard |
 | [1340-jump-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/itzreggie/Leet_codes/tree/main/2126-destroying-asteroids/) | Medium |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/itzreggie/Leet_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/itzreggie/Leet_codes/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itzreggie/Leet_codes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -531,4 +534,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
