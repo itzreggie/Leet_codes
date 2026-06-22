@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/itzreggie/Leet_codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/itzreggie/Leet_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/itzreggie/Leet_codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/itzreggie/Leet_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/itzreggie/Leet_codes/tree/main/0796-rotate-string/) | Easy |
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
+| [1189-maximum-number-of-balloons](https://github.com/itzreggie/Leet_codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itzreggie/Leet_codes/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
