@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/itzreggie/Leet_codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/itzreggie/Leet_codes/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itzreggie/Leet_codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itzreggie/Leet_codes/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/itzreggie/Leet_codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/itzreggie/Leet_codes/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itzreggie/Leet_codes/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/itzreggie/Leet_codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/itzreggie/Leet_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sorting
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/itzreggie/Leet_codes/tree/master/2681-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/itzreggie/Leet_codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -384,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/itzreggie/Leet_codes/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/itzreggie/Leet_codes/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itzreggie/Leet_codes/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/itzreggie/Leet_codes/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/itzreggie/Leet_codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -575,4 +580,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itzreggie/Leet_codes/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/itzreggie/Leet_codes/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
