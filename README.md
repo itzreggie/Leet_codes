@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itzreggie/Leet_codes/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itzreggie/Leet_codes/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/itzreggie/Leet_codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itzreggie/Leet_codes/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/itzreggie/Leet_codes/tree/master/3430-count-days-without-meetings) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/itzreggie/Leet_codes/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itzreggie/Leet_codes/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itzreggie/Leet_codes/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itzreggie/Leet_codes/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itzreggie/Leet_codes/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itzreggie/Leet_codes/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itzreggie/Leet_codes/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itzreggie/Leet_codes/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itzreggie/Leet_codes/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3637-count-number-of-balanced-permutations](https://github.com/itzreggie/Leet_codes/tree/master/3637-count-number-of-balanced-permutations) |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itzreggie/Leet_codes/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itzreggie/Leet_codes/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
