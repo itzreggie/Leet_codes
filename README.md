@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/itzreggie/Leet_codes/tree/main/0260-single-number-iii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/itzreggie/Leet_codes/tree/master/0416-partition-equal-subset-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itzreggie/Leet_codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/itzreggie/Leet_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/itzreggie/Leet_codes/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itzreggie/Leet_codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0761-special-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/0761-special-binary-string/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/itzreggie/Leet_codes/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/itzreggie/Leet_codes/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itzreggie/Leet_codes/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itzreggie/Leet_codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itzreggie/Leet_codes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
