@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/itzreggie/Leet_codes/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itzreggie/Leet_codes/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/itzreggie/Leet_codes/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/itzreggie/Leet_codes/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3637-count-number-of-balanced-permutations](https://github.com/itzreggie/Leet_codes/tree/master/3637-count-number-of-balanced-permutations) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itzreggie/Leet_codes/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/itzreggie/Leet_codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/itzreggie/Leet_codes/tree/master/3430-count-days-without-meetings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/itzreggie/Leet_codes/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itzreggie/Leet_codes/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itzreggie/Leet_codes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itzreggie/Leet_codes/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -660,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/itzreggie/Leet_codes/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
