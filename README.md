@@ -677,4 +677,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itzreggie/Leet_codes/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itzreggie/Leet_codes/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/itzreggie/Leet_codes/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/itzreggie/Leet_codes/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
