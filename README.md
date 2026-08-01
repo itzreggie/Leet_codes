@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/itzreggie/Leet_codes/tree/main/0260-single-number-iii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/itzreggie/Leet_codes/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/itzreggie/Leet_codes/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzreggie/Leet_codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/itzreggie/Leet_codes/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/itzreggie/Leet_codes/tree/main/0486-predict-the-winner/) | Medium |
 | [0799-champagne-tower](https://github.com/itzreggie/Leet_codes/tree/main/0799-champagne-tower/) | Medium |
 | [0806-domino-and-tromino-tiling](https://github.com/itzreggie/Leet_codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/itzreggie/Leet_codes/tree/master/0868-push-dominoes) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itzreggie/Leet_codes/tree/main/0292-nim-game/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/itzreggie/Leet_codes/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/itzreggie/Leet_codes/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzreggie/Leet_codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itzreggie/Leet_codes/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itzreggie/Leet_codes/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/itzreggie/Leet_codes/tree/main/0486-predict-the-winner/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -689,4 +693,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/itzreggie/Leet_codes/tree/main/0192-word-frequency/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/itzreggie/Leet_codes/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
