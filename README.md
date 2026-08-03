@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/itzreggie/Leet_codes/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/itzreggie/Leet_codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/itzreggie/Leet_codes/tree/main/0078-subsets/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/itzreggie/Leet_codes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itzreggie/Leet_codes/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itzreggie/Leet_codes/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itzreggie/Leet_codes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0768-partition-labels](https://github.com/itzreggie/Leet_codes/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/itzreggie/Leet_codes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itzreggie/Leet_codes/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itzreggie/Leet_codes/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
