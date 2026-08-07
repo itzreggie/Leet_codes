@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/itzreggie/Leet_codes/tree/master/0038-count-and-say) |
+| [0091-decode-ways](https://github.com/itzreggie/Leet_codes/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/itzreggie/Leet_codes/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0761-special-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/0761-special-binary-string/) | Hard |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/itzreggie/Leet_codes/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/itzreggie/Leet_codes/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0097-interleaving-string](https://github.com/itzreggie/Leet_codes/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/itzreggie/Leet_codes/tree/main/0131-palindrome-partitioning/) | Medium |
