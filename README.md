@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/itzreggie/Leet_codes/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzreggie/Leet_codes/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/itzreggie/Leet_codes/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itzreggie/Leet_codes/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/itzreggie/Leet_codes/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzreggie/Leet_codes/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itzreggie/Leet_codes/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/itzreggie/Leet_codes/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itzreggie/Leet_codes/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/itzreggie/Leet_codes/tree/main/2540-minimum-common-value/) | Easy |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/itzreggie/Leet_codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzreggie/Leet_codes/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itzreggie/Leet_codes/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itzreggie/Leet_codes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itzreggie/Leet_codes/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzreggie/Leet_codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzreggie/Leet_codes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itzreggie/Leet_codes/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/itzreggie/Leet_codes/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itzreggie/Leet_codes/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itzreggie/Leet_codes/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
