@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itzreggie/Leet_codes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itzreggie/Leet_codes/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itzreggie/Leet_codes/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/itzreggie/Leet_codes/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/itzreggie/Leet_codes/tree/master/2262-solving-questions-with-brainpower) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/itzreggie/Leet_codes/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itzreggie/Leet_codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/itzreggie/Leet_codes/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itzreggie/Leet_codes/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2573-find-the-string-with-lcp](https://github.com/itzreggie/Leet_codes/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/itzreggie/Leet_codes/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -696,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itzreggie/Leet_codes/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itzreggie/Leet_codes/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itzreggie/Leet_codes/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -746,4 +749,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itzreggie/Leet_codes/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
