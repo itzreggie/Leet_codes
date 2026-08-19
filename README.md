@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/itzreggie/Leet_codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/itzreggie/Leet_codes/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itzreggie/Leet_codes/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/itzreggie/Leet_codes/tree/main/0260-single-number-iii/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/itzreggie/Leet_codes/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/itzreggie/Leet_codes/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
@@ -548,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/itzreggie/Leet_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itzreggie/Leet_codes/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itzreggie/Leet_codes/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
