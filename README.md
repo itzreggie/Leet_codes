@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itzreggie/Leet_codes/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itzreggie/Leet_codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/itzreggie/Leet_codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/itzreggie/Leet_codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/itzreggie/Leet_codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/itzreggie/Leet_codes/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/itzreggie/Leet_codes/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itzreggie/Leet_codes/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/itzreggie/Leet_codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/itzreggie/Leet_codes/tree/master/2478-longest-nice-subarray) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itzreggie/Leet_codes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/itzreggie/Leet_codes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/itzreggie/Leet_codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itzreggie/Leet_codes/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -520,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/itzreggie/Leet_codes/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzreggie/Leet_codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3243-count-the-number-of-powerful-integers](https://github.com/itzreggie/Leet_codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/itzreggie/Leet_codes/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itzreggie/Leet_codes/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -584,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzreggie/Leet_codes/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/itzreggie/Leet_codes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/itzreggie/Leet_codes/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itzreggie/Leet_codes/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itzreggie/Leet_codes/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -622,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/itzreggie/Leet_codes/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3637-count-number-of-balanced-permutations](https://github.com/itzreggie/Leet_codes/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
