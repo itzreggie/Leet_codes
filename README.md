@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itzreggie/Leet_codes/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/itzreggie/Leet_codes/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itzreggie/Leet_codes/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itzreggie/Leet_codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzreggie/Leet_codes/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2249-count-the-hidden-sequences](https://github.com/itzreggie/Leet_codes/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/itzreggie/Leet_codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/itzreggie/Leet_codes/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/itzreggie/Leet_codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/itzreggie/Leet_codes/tree/master/2262-solving-questions-with-brainpower) |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1563-stone-game-v/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/itzreggie/Leet_codes/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1927-sum-game](https://github.com/itzreggie/Leet_codes/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzreggie/Leet_codes/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -724,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/itzreggie/Leet_codes/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/itzreggie/Leet_codes/tree/main/2029-stone-game-ix/) | Medium |
 ## Segment Tree
@@ -767,12 +772,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/itzreggie/Leet_codes/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/itzreggie/Leet_codes/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
