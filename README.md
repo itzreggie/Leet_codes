@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/itzreggie/Leet_codes/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/itzreggie/Leet_codes/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/itzreggie/Leet_codes/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/itzreggie/Leet_codes/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/itzreggie/Leet_codes/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itzreggie/Leet_codes/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/itzreggie/Leet_codes/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/itzreggie/Leet_codes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itzreggie/Leet_codes/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/itzreggie/Leet_codes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/itzreggie/Leet_codes/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/itzreggie/Leet_codes/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itzreggie/Leet_codes/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/itzreggie/Leet_codes/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
