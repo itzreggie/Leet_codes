@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/itzreggie/Leet_codes/tree/main/2029-stone-game-ix/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/itzreggie/Leet_codes/tree/master/2048-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/itzreggie/Leet_codes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/itzreggie/Leet_codes/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itzreggie/Leet_codes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itzreggie/Leet_codes/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/itzreggie/Leet_codes/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/itzreggie/Leet_codes/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/itzreggie/Leet_codes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/itzreggie/Leet_codes/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itzreggie/Leet_codes/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
