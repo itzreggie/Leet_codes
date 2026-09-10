@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itzreggie/Leet_codes/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itzreggie/Leet_codes/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itzreggie/Leet_codes/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/itzreggie/Leet_codes/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/itzreggie/Leet_codes/tree/master/2793-count-the-number-of-complete-components) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itzreggie/Leet_codes/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itzreggie/Leet_codes/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/itzreggie/Leet_codes/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/itzreggie/Leet_codes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itzreggie/Leet_codes/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itzreggie/Leet_codes/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
