@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/itzreggie/Leet_codes/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzreggie/Leet_codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0797-rabbits-in-forest](https://github.com/itzreggie/Leet_codes/tree/master/0797-rabbits-in-forest) |
+| [0835-image-overlap](https://github.com/itzreggie/Leet_codes/tree/main/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/itzreggie/Leet_codes/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/itzreggie/Leet_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/itzreggie/Leet_codes/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/itzreggie/Leet_codes/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
