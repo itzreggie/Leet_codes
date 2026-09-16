@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/itzreggie/Leet_codes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/itzreggie/Leet_codes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/itzreggie/Leet_codes/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/itzreggie/Leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/itzreggie/Leet_codes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/itzreggie/Leet_codes/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
@@ -676,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/itzreggie/Leet_codes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/itzreggie/Leet_codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/itzreggie/Leet_codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itzreggie/Leet_codes/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
