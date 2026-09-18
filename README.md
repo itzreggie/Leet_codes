@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/itzreggie/Leet_codes/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itzreggie/Leet_codes/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzreggie/Leet_codes/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itzreggie/Leet_codes/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/itzreggie/Leet_codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itzreggie/Leet_codes/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itzreggie/Leet_codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzreggie/Leet_codes/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itzreggie/Leet_codes/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/itzreggie/Leet_codes/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/itzreggie/Leet_codes/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzreggie/Leet_codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzreggie/Leet_codes/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/itzreggie/Leet_codes/tree/main/1840-maximum-building-height/) | Hard |
@@ -610,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/itzreggie/Leet_codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itzreggie/Leet_codes/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzreggie/Leet_codes/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/itzreggie/Leet_codes/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itzreggie/Leet_codes/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
