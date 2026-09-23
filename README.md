@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itzreggie/Leet_codes/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/itzreggie/Leet_codes/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/itzreggie/Leet_codes/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzreggie/Leet_codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itzreggie/Leet_codes/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/itzreggie/Leet_codes/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itzreggie/Leet_codes/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itzreggie/Leet_codes/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itzreggie/Leet_codes/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzreggie/Leet_codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itzreggie/Leet_codes/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/itzreggie/Leet_codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/itzreggie/Leet_codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/itzreggie/Leet_codes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itzreggie/Leet_codes/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itzreggie/Leet_codes/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzreggie/Leet_codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/itzreggie/Leet_codes/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/itzreggie/Leet_codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itzreggie/Leet_codes/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzreggie/Leet_codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/itzreggie/Leet_codes/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/itzreggie/Leet_codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/itzreggie/Leet_codes/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/itzreggie/Leet_codes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itzreggie/Leet_codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itzreggie/Leet_codes/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/itzreggie/Leet_codes/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/itzreggie/Leet_codes/tree/main/1872-stone-game-viii/) | Hard |
